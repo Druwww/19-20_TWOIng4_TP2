@@ -37,7 +37,7 @@ header .user {
 }
 
 header .user a {
-    font-size: 13px;
+    font-size: 0.8em;
     color: #89949b;
     padding-top: 5px;
 }
@@ -54,13 +54,13 @@ main article {
 h3 {
     color: #b8c3c9;
     text-transform: uppercase;
-    font-size: 11px;
+    font-size: 1em;
     font-weight: normal;
     margin-bottom: 10px;
 }
 
 nav ul li a { 
-    font-size: 14px;
+    font-size: 1.1em;
     font-weight: normal;
     color: #828c92;
 }
@@ -77,6 +77,7 @@ main header aside img {
     border: 1px solid #dadada;
     border-radius: 50%;
     box-shadow: 0 0 5px #cecece;
+    size: 100%;
 }
 
 nav ul li:last-child {
@@ -85,18 +86,20 @@ nav ul li:last-child {
 
 h1 {
     color: #4b5c66;
-    font-size: 24px;
+    font-size: 3em;
     font-weight: normal;
     margin: 0 0 8px 0;
 }
 
 .name p { 
     color: #a0aab1;
-    font-size: 12px;
+    font-size: 1em;
 }
 
 .name p img { 
     margin-left: 12px;
+    size: 100%;
+
 }
 
 
