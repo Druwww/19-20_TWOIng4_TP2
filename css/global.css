@@ -138,9 +138,9 @@ header form {
 input.search {
     background: url("../img/icon/search.png") #ebeff1 no-repeat 8px;
     box-shadow: none;
-    height: 28px;
-    width: 100%;
-    font-size: 13px;
+    height: 2em;
+    width: 20em;
+    font-size: 1em;
     padding: 3px 6px 3px 25px;
     border: 1px solid #d0dde9;
     margin: 0;
